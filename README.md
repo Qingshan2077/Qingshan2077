@@ -11,26 +11,16 @@
 
 ---
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+### 👨‍💻 About Me
 
-class Qingshan2077:
-    def __init__(self):
-        self.name       = "Qingshan2077"
-        self.motto      = "技术改变生活 · Code Changes Life"
-        self.languages  = ["Python", "Java", "C/C++", "JavaScript", "TypeScript"]
-        self.interests  = ["Open Source", "Backend Dev", "Algorithm", "AI/ML"]
-        self.currently  = "Building something awesome... 🔨"
-
-    def say_hello(self):
-        print(f"👋 Hey! I'm {self.name}")
-        print(f"💡 {self.motto}")
-        print(f"🌱 Always learning, always growing.")
-
-me = Qingshan2077()
-me.say_hello()
-```
+| | |
+|---|---|
+| 🙋 **Who** | Qingshan2077 |
+| 💡 **Motto** | 技术改变生活 · Code Changes Life |
+| 🔭 **Currently** | Building something awesome... |
+| 🌱 **Learning** | Always exploring new tech |
+| ⚡ **Interests** | Open Source · Backend Dev · Algorithm · AI/ML |
+| 🌍 **Location** | China 🇨🇳 |
 
 ---
 
