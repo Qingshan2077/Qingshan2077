@@ -70,8 +70,11 @@
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will auto-update here after setup -->
-<!-- See setup instructions below -->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=for-the-badge)](https://wakatime.com/@Qingshan2077)
