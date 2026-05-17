@@ -71,22 +71,10 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 
-[![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=for-the-badge)](https://wakatime.com/@Qingshan2077)
 
-> 💡 **WakaTime 设置步骤：**
-> 1. 注册 [WakaTime](https://wakatime.com) 并安装编辑器插件
-> 2. 将 `YOUR_WAKATIME_USER_ID` 替换为您的真实 WakaTime User ID
-> 3. 参考 [waka-readme](https://github.com/athul/waka-readme) 配置 GitHub Actions 自动更新
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
