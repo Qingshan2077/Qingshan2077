@@ -83,19 +83,7 @@ No activity tracked
 
 <div align="center">
 
-<!-- 
-  贡献蛇形动画设置步骤：
-  1. 在您的 GitHub 仓库 Qingshan2077/Qingshan2077 中创建如下 GitHub Actions 工作流文件：
-     .github/workflows/snake.yml
-  2. 工作流内容参考：https://github.com/Platane/snk
-  3. 设置完成后取消下方注释，替换为您的实际路径
--->
-
 ![Snake animation](https://github.com/Qingshan2077/Qingshan2077/blob/output/github-snake-dark.svg)
-
-
-<!-- 如果上方路径不存在，可临时使用下面的静态贡献图代替 -->
-<!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qingshan2077&theme=github-compact&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff&area_color=00d9ff)](https://github.com/Qingshan2077) -->
 
 </div>
 
