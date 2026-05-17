@@ -91,7 +91,8 @@ No activity tracked
   3. 设置完成后取消下方注释，替换为您的实际路径
 -->
 
-![Snake animation](https://github.com/Qingshan2077/Qingshan2077/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Qingshan2077/Qingshan2077/blob/output/github-snake-dark.svg)
+
 
 <!-- 如果上方路径不存在，可临时使用下面的静态贡献图代替 -->
 <!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qingshan2077&theme=github-compact&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff&area_color=00d9ff)](https://github.com/Qingshan2077) -->
