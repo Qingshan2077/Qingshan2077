@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner with Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Qingshan+%F0%9F%91%8B;Code+Changes+Life+%F0%9F%9A%80;Keep+Building%2C+Keep+Growing+%E2%9C%A8)](https://github.com/Qingshan2077)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+LongHui+%F0%9F%91%8B;Code+Changes+Life+%F0%9F%9A%80;Keep+Building%2C+Keep+Growing+%E2%9C%A8)](https://github.com/Qingshan2077)
 
 <!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Qingshan2077&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
