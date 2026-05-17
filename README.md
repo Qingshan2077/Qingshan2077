@@ -70,11 +70,78 @@
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 14.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 18 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                18 commits          ███████████████████░░░░░░   75.00 % 
+🌃 Evening                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌙 Night                  3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Tuesday                  3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 4 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   14 commits          ███████████████░░░░░░░░░░   58.33 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Jupyter Notebook         1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/05/2026 13:16:20 UTC
 <!--END_SECTION:waka-->
 
 
