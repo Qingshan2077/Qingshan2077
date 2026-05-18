@@ -78,7 +78,7 @@
 
 > 📦 14.2 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2026
+> 🏆 20 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,53 +86,15 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                18 commits          ██████████████████░░░░░░░   72.00 % 
-🌃 Evening                4 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-🌙 Night                  3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Tuesday                  3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 4 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Sunday                   15 commits          ███████████████░░░░░░░░░░   60.00 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Python                   4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.35 % 
 TypeScript               2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 Java                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
 Jupyter                  1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
 Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-
-🔥 Editors: 
-Unknown Editor           13 hrs 17 mins      █████████████████████░░░░   84.97 % 
-PyCharm                  2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-
-🐱‍💻 Projects: 
-StockTrader              10 hrs 28 mins      █████████████████░░░░░░░░   66.94 % 
-upgrade                  2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-LangChainLearning        1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-virtual-robots-v3        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-LangChain                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-
-💻 Operating System: 
-Windows                  15 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -151,7 +113,7 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 07:08:38 UTC
+ Last Updated on 18/05/2026 07:26:14 UTC
 <!--END_SECTION:waka-->
 
 
