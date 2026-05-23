@@ -84,17 +84,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   3 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.49 % 
-Jupyter                  1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Text                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-TOML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -111,7 +100,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:17:36 UTC
+ Last Updated on 23/05/2026 19:43:44 UTC
 <!--END_SECTION:waka-->
 
 
