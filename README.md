@@ -72,7 +72,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -113,7 +113,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2026 19:47:40 UTC
+ Last Updated on 31/05/2026 19:48:04 UTC
 <!--END_SECTION:waka-->
 
 
