@@ -76,9 +76,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 14.7 kB Used in GitHub's Storage 
+> 📦 14.8 kB Used in GitHub's Storage 
  > 
-> 🏆 37 Contributions in the Year 2026
+> 🏆 38 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,11 +90,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 13 mins        █████████████░░░░░░░░░░░░   53.56 % 
-Markdown                 49 mins             █████████░░░░░░░░░░░░░░░░   35.65 % 
-GitIgnore file           13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+GitIgnore file           13 mins             ████████████████████░░░░░   81.03 % 
+Python                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2026 20:39:15 UTC
+ Last Updated on 09/06/2026 20:25:06 UTC
 <!--END_SECTION:waka-->
 
 
