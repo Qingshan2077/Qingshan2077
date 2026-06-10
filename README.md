@@ -72,13 +72,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 14.8 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2026
+> 🏆 39 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,11 +90,11 @@
 
 ```text
 💬 Programming Languages: 
-GitIgnore file           13 mins             ████████████████████░░░░░   81.03 % 
-Python                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   1 hr 19 mins        ██████████████████████░░░   87.81 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+textmate                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+.env file                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2026 20:25:06 UTC
+ Last Updated on 10/06/2026 21:06:14 UTC
 <!--END_SECTION:waka-->
 
 
