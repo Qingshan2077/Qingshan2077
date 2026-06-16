@@ -78,7 +78,7 @@
 
 > 📦 15.1 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2026
+> 🏆 54 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,11 +90,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 55 mins       ███████████████░░░░░░░░░░   60.13 % 
-TypeScript               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Python                   3 hrs 19 mins       ██████████████░░░░░░░░░░░   56.41 % 
+TypeScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2026 21:29:44 UTC
+ Last Updated on 16/06/2026 21:24:44 UTC
 <!--END_SECTION:waka-->
 
 
