@@ -70,15 +70,15 @@
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 15.5 kB Used in GitHub's Storage 
+> 📦 20.2 kB Used in GitHub's Storage 
  > 
-> 🏆 73 Contributions in the Year 2026
+> 🏆 77 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,11 +90,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.75 % 
-TypeScript               3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.73 % 
-Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Python                   4 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.12 % 
+TypeScript               3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 20:34:44 UTC
+ Last Updated on 18/06/2026 20:42:51 UTC
 <!--END_SECTION:waka-->
 
 
