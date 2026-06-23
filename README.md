@@ -72,13 +72,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 20.7 kB Used in GitHub's Storage 
+> 📦 20.9 kB Used in GitHub's Storage 
  > 
-> 🏆 93 Contributions in the Year 2026
+> 🏆 103 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,11 +90,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.61 % 
-TypeScript               2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-TOML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-GitIgnore file           51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Python                   6 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
+TypeScript               3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+TOML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2026 21:19:42 UTC
+ Last Updated on 23/06/2026 20:31:29 UTC
 <!--END_SECTION:waka-->
 
 
