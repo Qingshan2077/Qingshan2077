@@ -90,11 +90,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.48 % 
-TypeScript               2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Other                    1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-GitIgnore file           36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-TOML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Python                   3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.25 % 
+TypeScript               2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Other                    1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Rust                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 20:29:36 UTC
+ Last Updated on 26/06/2026 20:16:54 UTC
 <!--END_SECTION:waka-->
 
 
