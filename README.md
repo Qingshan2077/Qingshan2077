@@ -76,35 +76,31 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 21.0 kB Used in GitHub's Storage 
+> 📦 73.3 kB Used in GitHub's Storage 
  > 
-> 🏆 105 Contributions in the Year 2026
+> 🏆 107 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    28 mins             ████████░░░░░░░░░░░░░░░░░   31.72 % 
-TypeScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-Python                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-textmate                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-GitIgnore file           10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ███████████████░░░░░░░░░░   60.00 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   6 repos             ██████████████░░░░░░░░░░░   54.55 % 
+Java                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -114,7 +110,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 20:27:18 UTC
+ Last Updated on 01/07/2026 20:21:54 UTC
 <!--END_SECTION:waka-->
 
 
