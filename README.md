@@ -76,9 +76,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 73.3 kB Used in GitHub's Storage 
+> 📦 73.4 kB Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2026
+> 🏆 121 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +90,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   36.51 % 
+Markdown                 1 hr                ████████░░░░░░░░░░░░░░░░░   31.27 % 
+YAML                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +114,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2026 20:21:54 UTC
+ Last Updated on 02/07/2026 19:59:57 UTC
 <!--END_SECTION:waka-->
 
 
