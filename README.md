@@ -72,19 +72,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 73.8 kB Used in GitHub's Storage 
+> 📦 126.4 kB Used in GitHub's Storage 
  > 
-> 🏆 134 Contributions in the Year 2026
+> 🏆 146 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -100,11 +100,11 @@ Git Config               2 mins              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ██████████████░░░░░░░░░░░   54.55 % 
-Java                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
@@ -114,7 +114,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2026 19:43:37 UTC
+ Last Updated on 05/07/2026 19:49:33 UTC
 <!--END_SECTION:waka-->
 
 
