@@ -72,17 +72,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 126.4 kB Used in GitHub's Storage 
+> 📦 126.7 kB Used in GitHub's Storage 
  > 
-> 🏆 146 Contributions in the Year 2026
+> 🏆 156 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -90,21 +90,21 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   36.51 % 
-Markdown                 1 hr                ████████░░░░░░░░░░░░░░░░░   31.27 % 
-YAML                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JSON                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Java                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Markdown                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   7 repos             █████████████░░░░░░░░░░░░   53.85 % 
+Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -114,7 +114,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 19:49:33 UTC
+ Last Updated on 06/07/2026 20:22:20 UTC
 <!--END_SECTION:waka-->
 
 
