@@ -70,7 +70,7 @@
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -90,11 +90,11 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     5 hrs 46 mins       █████████████░░░░░░░░░░░░   53.52 % 
-Python                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Java                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+JSON                     5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.63 % 
+Python                   3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+TypeScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Java                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 20:16:45 UTC
+ Last Updated on 10/07/2026 19:57:43 UTC
 <!--END_SECTION:waka-->
 
 
