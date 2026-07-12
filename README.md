@@ -76,35 +76,35 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 126.7 kB Used in GitHub's Storage 
+> 📦 126.9 kB Used in GitHub's Storage 
  > 
-> 🏆 156 Contributions in the Year 2026
+> 🏆 162 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.18 % 
-JSON                     3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.25 % 
-TypeScript               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Java                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Python                   3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.00 % 
+JSON                     1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+TypeScript               1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             █████████████░░░░░░░░░░░░   53.85 % 
-Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   7 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -114,7 +114,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 19:40:02 UTC
+ Last Updated on 12/07/2026 19:37:10 UTC
 <!--END_SECTION:waka-->
 
 
