@@ -52,8 +52,8 @@
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api?username=Qingshan2077&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" />
-<img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=Qingshan2077&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-7mlixnkxf-zlh2.vercel.app/api?username=Qingshan2077&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" />
+<img height="180em" src="https://github-readme-stats-7mlixnkxf-zlh2.vercel.app/api/top-langs/?username=Qingshan2077&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
 
 </div>
 
