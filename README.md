@@ -95,29 +95,6 @@ TypeScript               1 hr 39 mins        ███░░░░░░░░�
 Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 hrs 33 mins (98.06%)
-
-✍️ 20,724 lines written by AI, 2 lines written by hand (99.99% AI-written)
-
-🔤 202,676,052 Input Tokens, 1,087,377 Output Tokens
-
-💵 $1043.82 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 108 AI Prompts
-
-GPT                      21,303 lines        █████████████████████████   100.00 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 2,763 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
