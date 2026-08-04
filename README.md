@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Qingshan2077&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](./profile/streak.svg)](https://git.io/streak-stats)
 
 </div>
 
