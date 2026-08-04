@@ -119,7 +119,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 <div align="center">
 
-![Snake animation](https://github.com/Qingshan2077/Qingshan2077/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/output/github-snake-dark.svg)
 
 </div>
 
