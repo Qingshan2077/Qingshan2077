@@ -70,19 +70,17 @@
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%205%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 127.0 kB Used in GitHub's Storage 
+> 📦 127.9 kB Used in GitHub's Storage 
  > 
-> 🏆 166 Contributions in the Year 2026
+> 🏆 197 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -90,17 +88,44 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      4 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
+Java                     3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Python                   2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 33 mins (98.06%)
+
+✍️ 20,724 lines written by AI, 2 lines written by hand (99.99% AI-written)
+
+🔤 202,676,052 Input Tokens, 1,087,377 Output Tokens
+
+💵 $1043.82 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 108 AI Prompts
+
+GPT                      21,303 lines        █████████████████████████   100.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 2,763 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
+Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -110,7 +135,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:41:25 UTC
+ Last Updated on 04/08/2026 12:04:31 UTC
 <!--END_SECTION:waka-->
 
 
