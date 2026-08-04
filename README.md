@@ -13,14 +13,25 @@
 
 ### 👨‍💻 About Me
 
-| | |
-|---|---|
-| 🙋 **Who** | Qingshan2077 |
-| 💡 **Motto** | 技术改变生活 · Code Changes Life |
-| 🔭 **Currently** | Building something awesome... |
-| 🌱 **Learning** | Always exploring new tech |
-| ⚡ **Interests** | Open Source · Backend Dev · Algorithm · AI/ML |
-| 🌍 **Location** | China 🇨🇳 |
+<div align="center">
+
+```bash
+$ whoami
+Qingshan2077  |  技术改变生活 · Code Changes Life
+```
+
+</div>
+
+```bash
+~ $ cat .profile
+
+name      : Qingshan2077
+motto     : 技术改变生活 · Code Changes Life
+currently : Building something awesome...
+learning  : Always exploring new tech
+interests : Open Source · Backend Dev · Algorithm · AI/ML
+location  : China 🇨🇳
+```
 
 ---
 
