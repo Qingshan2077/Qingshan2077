@@ -11,13 +11,13 @@
 
 ---
 
-### 👨‍💻 About Me
+
 
 <div align="center">
 
 ```bash
 $ whoami
-Qingshan2077  |  技术改变生活 · Code Changes Life
+LongHui Zhang  |  技术改变生活 · Code Changes Life
 ```
 
 </div>
@@ -25,7 +25,7 @@ Qingshan2077  |  技术改变生活 · Code Changes Life
 ```bash
 ~ $ cat .profile
 
-name      : Qingshan2077
+name      : LongHui Zhang
 motto     : 技术改变生活 · Code Changes Life
 currently : Building something awesome...
 learning  : Always exploring new tech
