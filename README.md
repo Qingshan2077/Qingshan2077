@@ -65,11 +65,11 @@ location  : China 🇨🇳
 
 > 📦 127.9 kB Used in GitHub's Storage 
  > 
-> 🏆 198 Contributions in the Year 2026
+> 🏆 200 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -77,11 +77,11 @@ location  : China 🇨🇳
 
 ```text
 💬 Programming Languages: 
-SQL                      4 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
-Java                     3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-Python                   2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Python                   2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
+Java                     2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+TypeScript               1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+SQL                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,7 +95,9 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 04/08/2026 12:40:49 UTC
+
+
+ Last Updated on 04/08/2026 20:07:50 UTC
 <!--END_SECTION:waka-->
 
 ---
