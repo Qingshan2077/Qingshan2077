@@ -26,30 +26,6 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack & Skills
-
-<!-- Languages -->
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-
-<!-- Tools & Frameworks -->
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats-7mlixnkxf-zlh2.vercel.app/api?username=Qingshan2077&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" />
@@ -108,16 +84,34 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Qingshan2077/Qingshan2077/main/assets/bar_graph.png)
-
-
  Last Updated on 04/08/2026 12:40:49 UTC
 <!--END_SECTION:waka-->
 
+---
 
+<div align="center">
+
+## 🛠️ Tech Stack & Skills
+
+<!-- Languages -->
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+
+<!-- Tools & Frameworks -->
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+
+</div>
+
+---
 
 ## 🐍 Contribution Snake
 
