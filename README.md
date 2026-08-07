@@ -57,13 +57,15 @@ location  : China 🇨🇳
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2042%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 128.0 kB Used in GitHub's Storage 
+> 📦 128.1 kB Used in GitHub's Storage 
  > 
-> 🏆 205 Contributions in the Year 2026
+> 🏆 209 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,27 +77,27 @@ location  : China 🇨🇳
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.74 % 
-TypeScript               1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-Git Config               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Python                   2 hrs 34 mins       ███████████████░░░░░░░░░░   61.94 % 
+Git Config               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
-Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
+Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 07/08/2026 00:21:59 UTC
+ Last Updated on 07/08/2026 19:26:39 UTC
 <!--END_SECTION:waka-->
 
 ---
