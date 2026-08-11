@@ -57,22 +57,33 @@ location  : China 🇨🇳
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 128.3 kB Used in GitHub's Storage 
+> 📦 128.6 kB Used in GitHub's Storage 
  > 
-> 🏆 215 Contributions in the Year 2026
+> 🏆 224 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   3 hrs 23 mins       █████████████████░░░░░░░░   69.79 % 
+Markdown                 1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -86,7 +97,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 19:28:44 UTC
+ Last Updated on 11/08/2026 19:33:03 UTC
 <!--END_SECTION:waka-->
 
 ---
