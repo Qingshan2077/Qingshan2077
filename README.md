@@ -57,13 +57,13 @@ location  : China 🇨🇳
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 128.8 kB Used in GitHub's Storage 
+> 📦 128.9 kB Used in GitHub's Storage 
  > 
 > 🏆 248 Contributions in the Year 2026
  > 
@@ -77,11 +77,11 @@ location  : China 🇨🇳
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.78 % 
-Java                     2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.88 % 
-Markdown                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Java                     3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
+Python                   2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+Markdown                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Other                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:06:29 UTC
+ Last Updated on 18/08/2026 19:06:04 UTC
 <!--END_SECTION:waka-->
 
 ---
