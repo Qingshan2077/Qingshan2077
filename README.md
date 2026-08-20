@@ -59,17 +59,17 @@ location  : China 🇨🇳
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2034%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 128.9 kB Used in GitHub's Storage 
  > 
-> 🏆 248 Contributions in the Year 2026
+> 🏆 260 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -77,27 +77,27 @@ location  : China 🇨🇳
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.28 % 
-Markdown                 2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-PowerShell               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Java                     3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.91 % 
+Markdown                 2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+PowerShell               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
-Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 19/08/2026 19:01:41 UTC
+ Last Updated on 20/08/2026 19:09:34 UTC
 <!--END_SECTION:waka-->
 
 ---
