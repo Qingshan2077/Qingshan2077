@@ -65,7 +65,7 @@ location  : China 🇨🇳
 
 > 📦 128.9 kB Used in GitHub's Storage 
  > 
-> 🏆 260 Contributions in the Year 2026
+> 🏆 261 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,11 +77,11 @@ location  : China 🇨🇳
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.91 % 
-Markdown                 2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-PowerShell               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Markdown                 2 hrs 2 mins        █████████████░░░░░░░░░░░░   52.93 % 
+Java                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+PowerShell               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:09:34 UTC
+ Last Updated on 21/08/2026 19:05:37 UTC
 <!--END_SECTION:waka-->
 
 ---
