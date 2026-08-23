@@ -63,13 +63,13 @@ location  : China 🇨🇳
 
 **🐱 My GitHub Data** 
 
-> 📦 128.9 kB Used in GitHub's Storage 
+> 📦 129.4 kB Used in GitHub's Storage 
  > 
-> 🏆 261 Contributions in the Year 2026
+> 🏆 272 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -77,11 +77,11 @@ location  : China 🇨🇳
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 2 mins        █████████████░░░░░░░░░░░░   52.93 % 
-Java                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-PowerShell               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Java                     34 mins             ████████░░░░░░░░░░░░░░░░░   33.69 % 
+Markdown                 25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Go                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:55:57 UTC
+ Last Updated on 23/08/2026 18:55:29 UTC
 <!--END_SECTION:waka-->
 
 ---
