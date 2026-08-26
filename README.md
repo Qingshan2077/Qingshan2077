@@ -59,7 +59,7 @@ location  : China 🇨🇳
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -77,11 +77,11 @@ location  : China 🇨🇳
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.64 % 
-Markdown                 1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-Java                     1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Go                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Astro                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+TypeScript               2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.29 % 
+Markdown                 1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+Java                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Astro                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:07:10 UTC
+ Last Updated on 26/08/2026 20:28:18 UTC
 <!--END_SECTION:waka-->
 
 ---
