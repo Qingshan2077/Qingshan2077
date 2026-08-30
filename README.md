@@ -77,11 +77,11 @@ location  : China 🇨🇳
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.90 % 
-Markdown                 1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Java                     52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Astro                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Markdown                 17 mins             █████████████░░░░░░░░░░░░   52.26 % 
+Astro                    9 mins              ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Git                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:02:59 UTC
+ Last Updated on 30/08/2026 21:20:12 UTC
 <!--END_SECTION:waka-->
 
 ---
