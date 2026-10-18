@@ -63,15 +63,15 @@ location  : China 🇨🇳
 
 **🐱 My GitHub Data** 
 
-> 📦 430.7 kB Used in GitHub's Storage 
+> 📦 431.2 kB Used in GitHub's Storage 
  > 
-> 🏆 308 Contributions in the Year 2026
+> 🏆 320 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -83,17 +83,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
-Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-GDScript                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
+Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+GDScript                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 17/10/2026 20:47:19 UTC
+ Last Updated on 18/10/2026 20:56:16 UTC
 <!--END_SECTION:waka-->
 
 ---
