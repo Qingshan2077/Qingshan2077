@@ -63,7 +63,7 @@ location  : China 🇨🇳
 
 **🐱 My GitHub Data** 
 
-> 📦 431.9 kB Used in GitHub's Storage 
+> 📦 432.2 kB Used in GitHub's Storage 
  > 
 > 🏆 320 Contributions in the Year 2026
  > 
@@ -77,7 +77,10 @@ location  : China 🇨🇳
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   37 mins             ██████████████░░░░░░░░░░░   54.26 % 
+Markdown                 21 mins             ████████░░░░░░░░░░░░░░░░░   30.14 % 
+Java                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +96,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 21:49:14 UTC
+ Last Updated on 23/10/2026 21:33:16 UTC
 <!--END_SECTION:waka-->
 
 ---
